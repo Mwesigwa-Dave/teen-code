@@ -8,13 +8,6 @@
 # 74 - 79 -> D2
 # 80 - 100 -> D1
 
-# if (mark <= 34) {
-#     print("F9")
-# }
-
-#list = [0,10,20,30,40,50,60,70,80,90,100]
-#for mark in list:
-#    print(mark)
 
 def marks(list_of_marks):
     for mark in list_of_marks:
