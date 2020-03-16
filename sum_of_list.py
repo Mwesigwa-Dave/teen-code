@@ -5,4 +5,4 @@ def sum(list_of_numbers):
     return total
 
 
-print("Sum of numbers in a list is ",sum((2,5,3,1,3,3,4,-56)))
+print("Sum of numbers in a list is ",sum((2,5,3,1,3,3,4,)))
