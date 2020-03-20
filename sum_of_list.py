@@ -1,8 +1,6 @@
-def sum(list_of_numbers):
-    total = 0
-    for number in list_of_numbers:
-        total +=number
-    return total
-
-
-print("Sum of numbers in a list is ",sum((2,5,3,1,3,3,4,)))
+# list = [1,2,3,4,5]
+# for i in reversed(list):
+#     print(i, end = " ")
+set = {1, 2, 3, 4, 5}
+for i in set:
+    print(i)
